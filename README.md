@@ -1,3 +1,5 @@
+Deployed Link - https://pennywise-student-expense-tracker.vercel.app
+
 # Pennywise — Student Expense Tracker
 
 A responsive React expense tracker for students, built with Vite, React Router, Recharts and Lucide icons.
